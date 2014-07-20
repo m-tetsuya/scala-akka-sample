@@ -1,12 +1,3 @@
-/*
-object HelloWorld {
-  def main (args : Array[String] ) {
-    println ("Hello World")
-  }
-  }
-*/
-
-
 import akka.actor.Actor
 import akka.actor.ActorSystem
 import akka.actor.Props
